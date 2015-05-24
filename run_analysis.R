@@ -50,4 +50,4 @@ for (s in 1:numSubjects) {
         row = row+1
     }
 }
-write.table(result, "averages_dataset.txt")
+write.table(result, "New_averages_dataset.txt")
